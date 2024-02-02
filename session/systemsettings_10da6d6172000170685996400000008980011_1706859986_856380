@@ -1,0 +1,14 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+2 screens: Height=704
+2 screens: Width=1028
+2 screens: XPosition=451
+2 screens: YPosition=302
+ClassName=SettingsBase
+DP-2 HDMI-0=HDMI-0
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABAQAAALAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

@@ -1,0 +1,8 @@
+[FileDialogSize]
+1920x1080 screen: Height=600
+1920x1080 screen: Width=980
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/discord-icon-for-the-taskbar-7jam4avdxj-500x500.jpg,file:$HOME/Documents/UW transcript.pdf,file:$HOME/Desktop/Report Jan 26 2024.zip,file:$HOME/Documents/png-clipart-discord-computer-servers-teamspeak-discord-icon-video-game-smiley.png,file:$HOME/Documents/png-clipart-discord-graph-computer-icons-video-fortnite-battle-royal-white-logo.png,file:$HOME/Documents/discord-logo-transparent-design-1.png,file:$HOME/Downloads/CSIS docs/Ontario Transcript.pdf,file:$HOME/Downloads/CSIS docs/My_Resume_7__CSIS_.pdf,file:$HOME/Downloads/CSIS docs/(Signed) School Confirmation Information[1811].pdf,file:$HOME/Downloads/CSIS docs/(Signed) Psych Consent Form_BIL[1818].pdf,file:$HOME/Downloads/CSIS docs/(Signed) Privacy Act (Form 1032)[1817].pdf,file:$HOME/Downloads/CSIS docs/(Signed) Personal and Family History Questionnaire E[1815].pdf,file:$HOME/Downloads/CSIS docs/(Signed) Illegal Use of Substances Form - B[1814].PDF,file:$HOME/Downloads/CSIS docs/birth certificate.jpg,file:$HOME/Downloads/ibo receipt.pdf
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Documents/,file:$HOME/Downloads/CSIS docs/,file:$HOME/Desktop/
+detailViewIconSize=16

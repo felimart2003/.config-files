@@ -1,0 +1,10 @@
+[Applications][com.microsoft.Edge]
+Seen=true
+
+[Applications][com.spotify.Client]
+ShowBadges=false
+ShowInHistory=false
+ShowPopups=false
+
+[Notifications]
+LowPriorityHistory=true

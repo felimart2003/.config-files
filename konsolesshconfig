@@ -1,0 +1,22 @@
+[Global plugin config]
+manageProfile=false
+
+[SSH Config][github.com]
+hostname=github.com
+identifier=github.com
+importedFromSshConfig=true
+port=
+profileName=
+sshkey=~/.ssh/github-keys/felimart2003
+useSshConfig=true
+username=git
+
+[SSH Config][ly]
+hostname=ly
+identifier=ly
+importedFromSshConfig=true
+port=
+profileName=
+sshkey=
+useSshConfig=true
+username=
