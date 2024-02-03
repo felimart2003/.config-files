@@ -20,6 +20,7 @@ ToolBarsMovable=Disabled
 
 [Notification Messages]
 CloseAllTabs=true
+ShowPasteHugeTextWarning=false
 
 [UiSettings]
 ColorScheme=
