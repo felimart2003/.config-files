@@ -5,18 +5,12 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-clientId1=10da6d6172000170682973000000008980004
-clientId2=10da6d6172000170685996400000008980011
-count=2
-discardCommand2[$e]=rm,$HOME/.config/session/systemsettings_10da6d6172000170685996400000008980011_1706859986_856380
+clientId1=10da6d6172000170690173600000009010004
+count=1
 program1=/usr/lib/DiscoverNotifier
-program2=/usr/bin/systemsettings
-restartCommand1=/usr/lib/DiscoverNotifier,-session,10da6d6172000170682973000000008980004_1706859986_856387
-restartCommand2=/usr/bin/systemsettings,-session,10da6d6172000170685996400000008980011_1706859986_856380
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10da6d6172000170690173600000009010004_1706940060_537777
 restartStyleHint1=0
-restartStyleHint2=0
 userId1=felipe
-userId2=felipe
 
 [SubSession: 99e21c91-9112-410c-a70a-abd448ceb96d]
 count=0

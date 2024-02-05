@@ -23,7 +23,7 @@ DialogWidth=800
 [Containments][1][General]
 ToolBoxButtonState=topcenter
 ToolBoxButtonX=408
-positions={"1920x1080":["1"\\,"16"\\,"desktop:/rep Jan 26"\\,"0"\\,"9"\\,"desktop:/org.kde.plasma-welcome.desktop"\\,"0"\\,"3"\\,"desktop:/net.lutris.Lutris.desktop"\\,"0"\\,"2"\\,"desktop:/firefox.desktop"\\,"0"\\,"1"\\,"desktop:/com.microsoft.Edge.desktop"\\,"0"\\,"0"\\,"desktop:/Report Jan 26 2024.zip"\\,"0"\\,"4"]}
+positions={"1920x1080":["1"\\,"16"\\,"desktop:/firefox.desktop"\\,"0"\\,"1"\\,"desktop:/Report Jan 26 2024.zip"\\,"0"\\,"4"\\,"desktop:/rep Jan 26"\\,"0"\\,"9"\\,"desktop:/net.lutris.Lutris.desktop"\\,"0"\\,"2"\\,"desktop:/org.kde.plasma-welcome.desktop"\\,"0"\\,"3"\\,"desktop:/com.microsoft.Edge.desktop"\\,"0"\\,"0"]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
@@ -94,7 +94,7 @@ immutability=1
 plugin=org.kde.plasma.calculator
 
 [Containments][3][Applets][41][Configuration]
-PreloadWeight=70
+PreloadWeight=75
 
 [Containments][3][Applets][42]
 immutability=1
@@ -332,7 +332,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][9][Applets][16][Configuration]
-PreloadWeight=70
+PreloadWeight=75
 
 [Containments][9][Applets][17]
 immutability=1
@@ -405,4 +405,4 @@ shownItems=org.kde.plasma.weather,org.kde.plasma.notifications
 
 [ScreenMapping]
 itemsOnDisabledScreens=0,99e21c91-9112-410c-a70a-abd448ceb96d,3,desktop:/org.kde.plasma-welcome.desktop,desktop:/com.microsoft.Edge.desktop,desktop:/firefox.desktop
-screenMapping=desktop:/Edwar2657012624-000000000.pdf,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/com.microsoft.Edge.desktop,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/Day__2357012624-000000000.pdf,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/Report Jan 26 2024.zip,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/org.kde.plasma-welcome.desktop,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/firefox.desktop,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/rep Jan 26,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/report_big_dvir.pdf,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/net.lutris.Lutris.desktop,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0
+screenMapping=desktop:/firefox.desktop,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/Day__2357012624-000000000.pdf,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/net.lutris.Lutris.desktop,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/Report Jan 26 2024.zip,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/report_big_dvir.pdf,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/Edwar2657012624-000000000.pdf,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/com.microsoft.Edge.desktop,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/org.kde.plasma-welcome.desktop,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0,desktop:/rep Jan 26,0,059de16b-e2d1-4d69-8321-8bdd46ad80f0
